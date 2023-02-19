@@ -7,6 +7,10 @@ public class MyClass4 {
 	{
 		System.out.println("Hello , Welcome To Jenkins");
 	}
+	public void display()
+	{
+		System.out.println("Hello Worls");
+	}
 	
 public static void main (String[] args)
 {
